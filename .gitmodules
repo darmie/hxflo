@@ -1,3 +1,6 @@
 [submodule "libraries/EventEmitter"]
 	path = libraries/EventEmitter
 	url = https://github.com/darmie/EventEmitter
+[submodule "libraries/FBPGraph"]
+	path = libraries/FBPGraph
+	url = https://github.com/darmie/FBPGraph
