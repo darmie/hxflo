@@ -4,3 +4,6 @@
 [submodule "libraries/FBPGraph"]
 	path = libraries/FBPGraph
 	url = https://github.com/darmie/FBPGraph
+[submodule "libraries/hxComposer"]
+	path = libraries/hxComposer
+	url = https://github.com/darmie/hxComposer
