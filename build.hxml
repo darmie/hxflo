@@ -1,0 +1,16 @@
+-cp src/
+-cp libraries/EventEmitter/src
+-cp libraries/FBPGraph/src
+-cp libraries/hxComposer/src
+
+-lib haxe-files
+-lib tink_core
+-lib hscript
+-lib compiletime
+
+-cp test/
+
+
+-main Test
+
+--interp
